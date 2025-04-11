@@ -7,7 +7,9 @@ export default defineConfig({
     title: "大橘和朋友们的周刊",
     description: "《大橘和朋友们的周刊》： 分享日常冲浪互联网看到好玩的网站、app应用、资源分享、效率软件工具集等",
     lang: "zh-Hans", //语言
-
+    head: [
+        ['meta', { name: 'algolia-site-verification', content: '8ED61D4FCA7FA2FA' }]
+    ],
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         docFooter: {
