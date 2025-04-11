@@ -47,7 +47,7 @@ export default defineConfig({
 
 export const search: DefaultTheme.AlgoliaSearchOptions = {
     appId: 'SKU3V4BK8W',
-    apiKey: 'ce6c7d42c9ffe5a10f2adde53c07afdd',
+    apiKey: '8e018b176d7489e8a6e72f7cb12cefa3',
     indexName: 'tools-docx',
     placeholder: '搜索文档',
     translations: {
