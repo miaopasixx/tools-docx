@@ -2,7 +2,7 @@
 createSideBar.ts 文件是一个用于创建侧边栏的 TypeScript 脚本。它的作用是根据给定的目录结构生成侧边栏的配置文件。目录文档 
 docs\.vitepress\theme\components\Subscribe.vue 订阅
 docs\.vitepress\theme\components\Comment.vue 聊天
-
+docs\.vitepress\config\zh.ts Algolia配置
 
 <div align="center">
 
